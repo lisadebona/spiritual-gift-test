@@ -1,0 +1,36 @@
+{
+    "member_name": "Matt Harshbarger",
+    "member_phone": "740-973-4275",
+    "member_email": "mharshbarger@idahograce.com",
+    "test_started": "2020-08-23 17:01:03",
+    "test_result": {
+        "leadership": 19,
+        "wisdom": 19,
+        "knowledge": 16,
+        "evangelism": 16,
+        "serving": 16,
+        "teaching": 16,
+        "administration": 14,
+        "discernment": 14,
+        "exhortation": 14,
+        "faith": 12,
+        "giving": 12,
+        "mercy": 11,
+        "pastoring": 11,
+        "prophecy": 8
+    },
+    "top_three": {
+        "leadership": {
+            "name": "Leadership",
+            "definition": "to stand before the people in such a way as to attend to the direction of the body with such care and diligence so as to motivate others to get involved in the accomplishment of these goals"
+        },
+        "wisdom": {
+            "name": "Wisdom",
+            "definition": "to apply knowledge to life in such a way as to make spiritual truths quite relevant and practical in proper decision-making and daily life situations"
+        },
+        "knowledge": {
+            "name": "Knowledge",
+            "definition": "to seek to learn as much about the Bible as possible through the gathering of much information and the analyzing of that data"
+        }
+    }
+}

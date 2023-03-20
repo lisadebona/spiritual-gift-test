@@ -1,0 +1,556 @@
+{
+    "member_name": "Jeffrey Hoffman",
+    "member_phone": "253-653-7965",
+    "member_email": "jeffhoffman@reagan.com",
+    "answers": {
+        "administration": [
+            {
+                "id": 1,
+                "question": "I am skilled at organizing people to accomplish many different tasks and objectives",
+                "score": "2"
+            },
+            {
+                "id": 15,
+                "question": "I can clearly see what needs to be done and implement a plan to make it happen.",
+                "score": "3"
+            },
+            {
+                "id": 29,
+                "question": "I am good at delegating responsibility and trust others to 'do their jobs.'",
+                "score": "1"
+            },
+            {
+                "id": 43,
+                "question": "I like to create ways to make things run efficiently in my life and work.",
+                "score": "4"
+            },
+            {
+                "id": 57,
+                "question": "Details matter to me and I pay special attention to make sure things are done correctly.",
+                "score": "3"
+            },
+            {
+                "id": 71,
+                "question": "I manage my time wisely.",
+                "score": "2"
+            },
+            {
+                "id": 85,
+                "question": "My desk or workspace is set up so I can access whatever I need quickly.",
+                "score": "3"
+            }
+        ],
+        "discernment": [
+            {
+                "id": 2,
+                "question": "I can easily determine whether a statement is true to Scripture or not.",
+                "score": "2"
+            },
+            {
+                "id": 16,
+                "question": "I pay attention to what people say and how they say it, particularly those who teach.",
+                "score": "2"
+            },
+            {
+                "id": 30,
+                "question": "I am a quick and accurate judge of character.",
+                "score": "2"
+            },
+            {
+                "id": 44,
+                "question": "I can readily sense the enemy or a demonic influence in a situation.",
+                "score": "1"
+            },
+            {
+                "id": 58,
+                "question": "I can often tell if someone is being deceitful or dishonest before it becomes apparent to others.",
+                "score": "1"
+            },
+            {
+                "id": 72,
+                "question": "Things tend to be black or white to me; I see things as good or evil, right or wrong, true or false.",
+                "score": "2"
+            },
+            {
+                "id": 86,
+                "question": "Others have told me that my perceptions or judgments of people, situations, or statements have proved trustworthy.",
+                "score": "1"
+            }
+        ],
+        "evangelism": [
+            {
+                "id": 3,
+                "question": "I can clearly and effectively communicate the Gospel to others.",
+                "score": "1"
+            },
+            {
+                "id": 17,
+                "question": "I feel a burden of compassion for those who are lost without Jesus.",
+                "score": "2"
+            },
+            {
+                "id": 31,
+                "question": "I seek ways to build relationships with non-Christians so that The Lord will use me to share the Gospel with them.",
+                "score": "1"
+            },
+            {
+                "id": 45,
+                "question": "I love to memorize Scripture to share with those who don't know Jesus as their Savior.",
+                "score": "1"
+            },
+            {
+                "id": 59,
+                "question": "I love to share what Christ has done in my life and how He has changed me.",
+                "score": "2"
+            },
+            {
+                "id": 73,
+                "question": "I am not afraid to plead with people to believe that Christ died for their sin and to confess Him as Lord and Savior.",
+                "score": "1"
+            },
+            {
+                "id": 87,
+                "question": "Most of my conversations with non-Christians lead to me speaking about my faith in Jesus.",
+                "score": "1"
+            }
+        ],
+        "exhortation": [
+            {
+                "id": 4,
+                "question": "I believe everyone needs encouragement in this life, and I love to give it.",
+                "score": "3"
+            },
+            {
+                "id": 18,
+                "question": "When people are discouraged, I remind them of the power and promises of God found in Scripture.",
+                "score": "2"
+            },
+            {
+                "id": 32,
+                "question": "I am compelled to challenge and inspire growth in those whose faith is stagnant.",
+                "score": "1"
+            },
+            {
+                "id": 46,
+                "question": "I am not afraid to challenge someone if I know it will foster spiritual growth and boldness in their life.",
+                "score": "1"
+            },
+            {
+                "id": 60,
+                "question": "Others have told me that my words have compelled them to step out and grow in their faith.",
+                "score": "1"
+            },
+            {
+                "id": 74,
+                "question": "When others are faced with difficult situations, I boldly tell them of the faithfulness of God towards His people.",
+                "score": "1"
+            },
+            {
+                "id": 88,
+                "question": "If a person or a group is stumbling or deviating from the life God has intended for them, I will speak up and press them to remember and return to joyful life in Christ.",
+                "score": 0
+            }
+        ],
+        "faith": [
+            {
+                "id": 5,
+                "question": "I live confidently knowing that God is intimately concerned and involved with my life.",
+                "score": "4"
+            },
+            {
+                "id": 19,
+                "question": "I trust God completely to answer my prayers according to His perfect will.",
+                "score": "4"
+            },
+            {
+                "id": 33,
+                "question": "I know God will come through even if I don't see any possible solution to my problem.",
+                "score": "3"
+            },
+            {
+                "id": 47,
+                "question": "I will boldly move forward in a situation if I sense God's calling and provision to do so.",
+                "score": "1"
+            },
+            {
+                "id": 61,
+                "question": "Even when times are tough, I trust God completely to comfort me and provide for my needs.",
+                "score": "3"
+            },
+            {
+                "id": 75,
+                "question": "I don't often worry because of my confidence in God's ability and willingness to see me through every circumstance.",
+                "score": "3"
+            },
+            {
+                "id": 89,
+                "question": "I consistently encourage others to trust God in everything.",
+                "score": "1"
+            }
+        ],
+        "giving": [
+            {
+                "id": 6,
+                "question": "I live a simple lifestyle so that I can give a larger portion of my income to The Lord's work.",
+                "score": "3"
+            },
+            {
+                "id": 20,
+                "question": "I consistently and joyfully give of my income.",
+                "score": "4"
+            },
+            {
+                "id": 34,
+                "question": "When I give it brings me great joy knowing that more people will be served and touched with the Gospel.",
+                "score": "1"
+            },
+            {
+                "id": 48,
+                "question": "I believe I have been blessed financially so that I may be a blessing to the church and her mission to reach the lost and help the poor.",
+                "score": "3"
+            },
+            {
+                "id": 62,
+                "question": "Stewardship is an important discipline in my daily walk with Christ.",
+                "score": "4"
+            },
+            {
+                "id": 76,
+                "question": "I seek ways to help others financially and share the love of Christ with them.",
+                "score": "2"
+            },
+            {
+                "id": 90,
+                "question": "I give generously and without pretense to the ministry of God's people.",
+                "score": "3"
+            }
+        ],
+        "knowledge": [
+            {
+                "id": 7,
+                "question": "People often ask me my perspective or interpretation of specific passages of Scripture",
+                "score": "1"
+            },
+            {
+                "id": 21,
+                "question": "The Spirit has brought to my mind information that I have been able to use to minister to others effectively.",
+                "score": "2"
+            },
+            {
+                "id": 35,
+                "question": "I study the Bible regularly in order to share truth with others in and outside the church.",
+                "score": "1"
+            },
+            {
+                "id": 49,
+                "question": "I retain most of what I learn and can recall it quickly when the need arises.",
+                "score": "2"
+            },
+            {
+                "id": 63,
+                "question": "I like to share the truth and insights God has shown me with others.",
+                "score": "1"
+            },
+            {
+                "id": 77,
+                "question": "I am able to relate the truth and realities of the Gospel to all aspects of life.",
+                "score": "2"
+            },
+            {
+                "id": 91,
+                "question": "I can usually recall a Scripture verse or passage that applies to a given situation.",
+                "score": "2"
+            }
+        ],
+        "leadership": [
+            {
+                "id": 8,
+                "question": "I have been told that I am a 'dreamer.'",
+                "score": "2"
+            },
+            {
+                "id": 22,
+                "question": "I have a vision for my church or ministry and I know what needs to be done to accomplish it.",
+                "score": "1"
+            },
+            {
+                "id": 36,
+                "question": "I am not afraid to take risks to advance the kingdom of God through my church or ministry.",
+                "score": "1"
+            },
+            {
+                "id": 50,
+                "question": "I can readily identify leaders and love to help them grow in their gifts and abilities.",
+                "score": "3"
+            },
+            {
+                "id": 64,
+                "question": "People often look to me to lead a group or project.",
+                "score": "2"
+            },
+            {
+                "id": 78,
+                "question": "I am not afraid to step up and take charge in a crisis situation.",
+                "score": "2"
+            },
+            {
+                "id": 92,
+                "question": "I am more 'visionary' than detail oriented. I concentrate more on the big picture than the day-to-day particulars.",
+                "score": "1"
+            }
+        ],
+        "mercy": [
+            {
+                "id": 9,
+                "question": "I have great empathy for those who are facing difficult life challenges.",
+                "score": "3"
+            },
+            {
+                "id": 23,
+                "question": "I see the sick or needy as those who most need the love and comfort that Jesus offers.",
+                "score": "3"
+            },
+            {
+                "id": 37,
+                "question": "I care deeply about those who are hurting and want to help them navigate through their tough times.",
+                "score": "2"
+            },
+            {
+                "id": 51,
+                "question": "I love to see people through the storms of life and show them the compassion that Jesus did.",
+                "score": "2"
+            },
+            {
+                "id": 65,
+                "question": "I have been known to 'care too much' and help others in their time of need.",
+                "score": "1"
+            },
+            {
+                "id": 79,
+                "question": "I seek out those who are deemed 'lost causes' and aid them in restoring their lives.",
+                "score": "1"
+            },
+            {
+                "id": 93,
+                "question": "Others have showed appreciation that I have comforted and ministered to them at a low point in their lives.",
+                "score": "1"
+            }
+        ],
+        "pastoring": [
+            {
+                "id": 10,
+                "question": "I am very protective of the spiritual well-being of others.",
+                "score": "3"
+            },
+            {
+                "id": 24,
+                "question": "I love spending time nurturing and guiding others in their faith.",
+                "score": "1"
+            },
+            {
+                "id": 38,
+                "question": "I desire to help the wounded and lost find healing and shelter in Jesus Christ.",
+                "score": "1"
+            },
+            {
+                "id": 52,
+                "question": "I care about the church and do all I can to see it grow and be built up in love.",
+                "score": "4"
+            },
+            {
+                "id": 66,
+                "question": "I long to see each person in the church fulfilling the Great Commission.",
+                "score": "1"
+            },
+            {
+                "id": 80,
+                "question": "The Gospel of Jesus Christ is the foundation of my life and ministry.",
+                "score": "3"
+            },
+            {
+                "id": 94,
+                "question": "I do not seek the 'spotlight,' but God has called me to shepherd His people.",
+                "score": "2"
+            }
+        ],
+        "prophecy": [
+            {
+                "id": 11,
+                "question": "At times God has given me a message for an individual or group and compelled me to speak it to them.",
+                "score": "1"
+            },
+            {
+                "id": 25,
+                "question": "There have been occasions that I have received a revelation from the Lord and spoken it to the church.",
+                "score": 0
+            },
+            {
+                "id": 39,
+                "question": "The Lord has spontaneously given me information about an individual that I felt obligated to confront them with in order to restore them to God.",
+                "score": "2"
+            },
+            {
+                "id": 53,
+                "question": "God has put in my mind urgent matters that were otherwise unknown that I have announced to the church.",
+                "score": 0
+            },
+            {
+                "id": 67,
+                "question": "I have suddenly received a message from God specific to our congregation and shared it for the edification of the entire church.",
+                "score": 0
+            },
+            {
+                "id": 81,
+                "question": "Others have recognized that often God has spoken clearly and directly to them through a message I have shared.",
+                "score": 0
+            },
+            {
+                "id": 95,
+                "question": "I am always listening for the Spirit of God and I am open to receiving whatever message He has for me to share.",
+                "score": "2"
+            }
+        ],
+        "serving": [
+            {
+                "id": 12,
+                "question": "I enjoy doing everyday tasks that support the various ministries of the church.",
+                "score": "3"
+            },
+            {
+                "id": 26,
+                "question": "I readily volunteer to help in church when I know it will fill a practical need.",
+                "score": "3"
+            },
+            {
+                "id": 40,
+                "question": "I like to be in the background and have no need of recognition for my service in the church.",
+                "score": "3"
+            },
+            {
+                "id": 54,
+                "question": "I set aside time in my week to help those in need in my church and community.",
+                "score": "1"
+            },
+            {
+                "id": 68,
+                "question": "If I recognize a need in the church I simply fill it without being asked.",
+                "score": "2"
+            },
+            {
+                "id": 82,
+                "question": "I believe there is eternal significance in performing mundane tasks and service.",
+                "score": "4"
+            },
+            {
+                "id": 96,
+                "question": "I find joy in being a helper and assisting others in their ministries.",
+                "score": "3"
+            }
+        ],
+        "teaching": [
+            {
+                "id": 13,
+                "question": "I spend large amounts of time studying the Word of God knowing that my effort will make a difference in someone's life.",
+                "score": "1"
+            },
+            {
+                "id": 27,
+                "question": "I effectively communicate the Bible in ways that influence and motivate others to learn more.",
+                "score": "2"
+            },
+            {
+                "id": 41,
+                "question": "I am able to explain deep theological truths in ways that even a child can understand them.",
+                "score": 0
+            },
+            {
+                "id": 55,
+                "question": "I hate it when someone uses Scripture out of context for their own purposes.",
+                "score": "4"
+            },
+            {
+                "id": 69,
+                "question": "I pay attention to the words people use because each one is significant and has meaning.",
+                "score": "3"
+            },
+            {
+                "id": 83,
+                "question": "I love discovering how the Gospel is woven throughout the entire Bible as I increasingly spend time in study.",
+                "score": "2"
+            },
+            {
+                "id": 97,
+                "question": "Often the Holy Spirit gives me just the right words to say when I am teaching an individual or group.",
+                "score": "1"
+            }
+        ],
+        "wisdom": [
+            {
+                "id": 14,
+                "question": "I often have helpful insights into situations that have not been made clear to others.",
+                "score": "2"
+            },
+            {
+                "id": 28,
+                "question": "I have learned through my experiences in life and can often guide others who are facing similar difficulties or challenges that I have had.",
+                "score": "2"
+            },
+            {
+                "id": 42,
+                "question": "I often help people by offering Scriptural lessons and principles as solutions to life's various challenges.",
+                "score": "1"
+            },
+            {
+                "id": 56,
+                "question": "I can see where a group or individual's decisions and actions will lead them, and I offer to guide them in the right direction.",
+                "score": "1"
+            },
+            {
+                "id": 70,
+                "question": "It is humbling to me when someone asks for my guidance, so I take great care to help them.",
+                "score": "2"
+            },
+            {
+                "id": 84,
+                "question": "I can easily see which plan or strategy is the best one in a given circumstance.",
+                "score": "2"
+            },
+            {
+                "id": 98,
+                "question": "I can often see through the confusion or conflict in a situation and provide a practical and Scriptural solution to it.",
+                "score": "1"
+            }
+        ]
+    },
+    "test_started": "2021-03-26 12:54:11",
+    "test_result": {
+        "giving": 20,
+        "faith": 19,
+        "serving": 19,
+        "administration": 18,
+        "pastoring": 15,
+        "mercy": 13,
+        "teaching": 13,
+        "leadership": 12,
+        "discernment": 11,
+        "knowledge": 11,
+        "wisdom": 11,
+        "evangelism": 9,
+        "exhortation": 9,
+        "prophecy": 5
+    },
+    "top_three": {
+        "giving": {
+            "name": "Giving",
+            "definition": "to share what material resources you have with liberality and cheerfulness without thought of return"
+        },
+        "faith": {
+            "name": "Faith",
+            "definition": "to be firmly persuaded of God\u2019s power and promises to accomplish His will and purpose and to display such a confidence in Him and His Word that circumstances and obstacles do not shake that conviction"
+        },
+        "serving": {
+            "name": "Serving",
+            "definition": "to identify undone tasks in God\u2019s work, however menial, and use available resources to get the job done"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "member_name": "Christopher G DeBona",
+    "member_phone": "208-504-6082",
+    "member_email": "Cgdebona@gmail.com",
+    "test_started": "2020-08-23 17:47:56",
+    "test_result": {
+        "giving": 18,
+        "discernment": 17,
+        "mercy": 14,
+        "knowledge": 13,
+        "evangelism": 12,
+        "exhortation": 12,
+        "serving": 12,
+        "teaching": 12,
+        "wisdom": 12,
+        "administration": 11,
+        "prophecy": 11,
+        "faith": 10,
+        "leadership": 9,
+        "pastoring": 9
+    },
+    "top_three": {
+        "giving": {
+            "name": "Giving",
+            "definition": "to share what material resources you have with liberality and cheerfulness without thought of return"
+        },
+        "discernment": {
+            "name": "Discernment",
+            "definition": "to clearly distinguish truth from error by judging whether the behavior or teaching is from God, Satan, human error, or human power"
+        },
+        "mercy": {
+            "name": "Mercy",
+            "definition": "to be sensitive toward those who are suffering, whether physically, mentally, or emotionally, so as to feel genuine sympathy with their misery, speaking words of compassion but more caring for them with deeds of love to help alleviate their distress"
+        }
+    }
+}

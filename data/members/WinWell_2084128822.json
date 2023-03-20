@@ -1,0 +1,36 @@
+{
+    "member_name": "Win Well",
+    "member_phone": "208-412-8822",
+    "member_email": "wsprunt@idahograce.com",
+    "test_started": "2020-08-27 15:30:17",
+    "test_result": {
+        "faith": 28,
+        "exhortation": 27,
+        "knowledge": 27,
+        "pastoring": 26,
+        "evangelism": 25,
+        "mercy": 23,
+        "giving": 22,
+        "teaching": 22,
+        "leadership": 21,
+        "wisdom": 21,
+        "discernment": 19,
+        "serving": 18,
+        "prophecy": 17,
+        "administration": 12
+    },
+    "top_three": {
+        "faith": {
+            "name": "Faith",
+            "definition": "to be firmly persuaded of God\u2019s power and promises to accomplish His will and purpose and to display such a confidence in Him and His Word that circumstances and obstacles do not shake that conviction"
+        },
+        "exhortation": {
+            "name": "Exhortation",
+            "definition": "to come along side of someone with words of encouragement, comfort, consolation, and counsel to help them be all God wants them to be"
+        },
+        "knowledge": {
+            "name": "Knowledge",
+            "definition": "to seek to learn as much about the Bible as possible through the gathering of much information and the analyzing of that data"
+        }
+    }
+}

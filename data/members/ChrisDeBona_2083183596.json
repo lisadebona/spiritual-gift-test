@@ -1,0 +1,36 @@
+{
+    "member_name": "Chris DeBona",
+    "member_phone": "208-318-3596",
+    "member_email": "cgdebona@gmail.com",
+    "test_started": "2020-08-23 22:50:05",
+    "test_result": {
+        "faith": 21,
+        "wisdom": 19,
+        "discernment": 18,
+        "evangelism": 18,
+        "exhortation": 18,
+        "prophecy": 18,
+        "giving": 17,
+        "teaching": 17,
+        "leadership": 16,
+        "serving": 16,
+        "administration": 15,
+        "pastoring": 15,
+        "mercy": 13,
+        "knowledge": 12
+    },
+    "top_three": {
+        "faith": {
+            "name": "Faith",
+            "definition": "to be firmly persuaded of God\u2019s power and promises to accomplish His will and purpose and to display such a confidence in Him and His Word that circumstances and obstacles do not shake that conviction"
+        },
+        "wisdom": {
+            "name": "Wisdom",
+            "definition": "to apply knowledge to life in such a way as to make spiritual truths quite relevant and practical in proper decision-making and daily life situations"
+        },
+        "discernment": {
+            "name": "Discernment",
+            "definition": "to clearly distinguish truth from error by judging whether the behavior or teaching is from God, Satan, human error, or human power"
+        }
+    }
+}
